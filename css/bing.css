@@ -1,15 +1,28 @@
 /*菜单---cwj*/
 #menu {
-	width: 700px;
-	height: 50px;
-	color: black;
+	margin-left: 88px;
+	float: left;
 }
 #containter
-{
+{background-image: url(../img/sea.jpg);
+	height: 651px;
+	width: 1366px;
+	background-position: center center;	
+	float: left;
 
-	
+}
+#containter #footer{
+	width: 1366px;
+	height: 32px;
+	background-color: grey;
+	margin-top: 600px;
+	float: left;
 }
 
+.menuli{
+	float: left;
+	list-style-type: none;
+}
 
 /*菜单---cwj结束*/
 
