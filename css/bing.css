@@ -30,8 +30,25 @@
 
 
 /*康洁--开始*/
+#seek
+{ 
+	margin-top:45px;
+	margin-left: 88px;
+	float: left;
+}
 
+#pic
+{
+	float: left;
+}
 
+#search
+{
+	
+	float: left;
+	font-size: 25px;
+	
+}
 
 
 /*康洁--结束*/
