@@ -26,9 +26,9 @@ html + 表单 + github代码托管
 1. 用html制作bing的搜索框   
 2. 用CSS确定各项内容的位置  
 培训结果：  
-![bing截图](img/脚本.png)  
+![bing截图](img/搜索框截图.png)  
 培训内容：陈伟杰  
 ### 进行bing网页的脚本制作  
-![bing截图](img/bing.png)
+![bing截图](img/脚本.png)
   
 
