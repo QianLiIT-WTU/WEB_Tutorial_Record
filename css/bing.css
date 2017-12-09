@@ -22,8 +22,12 @@
 .menuli{
 	float: left;
 	list-style-type: none;
+	margin-right: 15px;
 }
-
+a {
+	text-decoration: none;
+	color: white;
+}
 /*菜单---cwj结束*/
 
 
